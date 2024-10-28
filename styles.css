@@ -32,3 +32,8 @@
     background-color: #ffffff; 
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
 }
+
+/* muito pequenos */
+@media (min-width: 300px) and (max-width: 600px)  {
+
+  }
